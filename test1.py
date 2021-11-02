@@ -1,3 +1,1 @@
-print("Cum te cheama?")
-nume = input(" ")
-print("Salut " + nume)
+print("Hello Word")
