@@ -5,8 +5,7 @@ lista = [7, 8, 9, 2, 3, 1, 4, 10, 5, 6,]
 lista.sort()
 print(lista)
 
-import copy
-new_list = copy.copy(lista)
+new_list = lista.copy()
 
 lista.reverse()
 print(lista)
